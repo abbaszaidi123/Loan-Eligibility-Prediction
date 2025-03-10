@@ -17,9 +17,6 @@ Just a few steps to get you up and running with the project:
 3. **import** all the `files`, `packages`, and `libraries`.
 4. **Run** all the cell.
 
-## Support
-
-Feeling stuck? Have questions? We're here to help! Reach out to me at <a href="https://wdjenish.web.app/">`My Website`</a>.
 
 ---
 
